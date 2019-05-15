@@ -1,3 +1,6 @@
+# credits https://github.com/ctlab/sysbio-training/blob/master/masters-2019/rnaseq/mnt/scripts/do_limma.R
+
+
 library(GEOquery)
 library(limma)
 library(org.Hs.eg.db)
